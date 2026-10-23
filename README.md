@@ -4,6 +4,10 @@ I build deterministic, verifiable tooling for AI coding agents: small tools that
 
 *Español: construyo herramientas deterministas y verificables para agentes de IA; los repositorios están documentados en inglés y español.*
 
+<a href="https://github.com/Caelos-Palacio/opus-studio"><img src="https://raw.githubusercontent.com/Caelos-Palacio/opus-studio/main/docs/media/demo.gif" width="640" alt="opus-studio: every frame is a pure function of time, seek(t)"></a>
+
+<sub>Rendered with <a href="https://github.com/Caelos-Palacio/opus-studio">opus-studio</a>: every frame is a pure function of time. Each repository below has its own demo.</sub>
+
 ## What I build
 
 **Agent safety and credentials**
