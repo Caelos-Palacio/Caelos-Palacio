@@ -19,7 +19,8 @@ I build deterministic, verifiable tooling for AI coding agents: small tools that
 - [pi-session-workspace](https://github.com/Caelos-Palacio/pi-session-workspace) - session navigation, checkpoints and a local mailbox inside the Pi terminal agent.
 - [claude-agent-continuity](https://github.com/Caelos-Palacio/claude-agent-continuity) - keeps the work of a cut-off Claude Code subagent: safe WIP commits per git worktree, status, resume prompts and a hook.
 
-**Deterministic guardrails**
+**Debugging and deterministic guardrails**
+- [rubber-duck](https://github.com/Caelos-Palacio/rubber-duck) - makes a coding agent debug like a programmer explaining code to a rubber duck: it narrates the execution path as claims, checks each with a command, and may only edit after a claim is refuted. Claude Code plugin.
 - [rosetta-guards](https://github.com/Caelos-Palacio/rosetta-guards) - detects identifiers lost when an LLM compacts context, plus a controlled-vocabulary linter. No LLM, no dependencies.
 - [realign](https://github.com/Caelos-Palacio/realign) - checks declared relationships between project files and repairs only derived text blocks, with verifiable evidence.
 
